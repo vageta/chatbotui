@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cn-bot-thft",
+  "private_key_id": "61ee6892615e4fe5084481b2476b604764c7c041",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsgS6PltOyy8EG\nslcLHavf+5/gjqjHfyyA7IfxIJNYrugHFAw7BZB8BWAlWpKf/O7ndiO3ZtnsiBg5\nfchJbxonQE9r+chKVOPiNEF7KFWQ0yGKwYht3QLLLPlUs5bMTgshO/hWyUs/x/xr\nLfmm4ODmWrHnwkVWYAdUSggvoMOH2TffInB0//UyvbzEt1tkLZfJAeYeAyMJG05x\nic1ppu70ZBQtc0PlSYllRwM/1vA9qu9lcsrVErZUSmY44Wwk3SGDmSr/gKlkuzvn\nLrAwDKY19VL+RngEJB/LqABsKUnEf/D8LQ3FgOBtu2qY7nL5gf7aptmt925re/0Z\na7wAm0bFAgMBAAECggEAF6bAlQRXczC3fu0NvSLs0VFlGrtEjdG0btq/SsKuIR8e\nBfZsNN1u8WolRAnWh6P8t3R9siQiZelE9QD3aIYYnmAVY5cELJjWA8opXjLqBGjG\nNQmS5IlEXEoGx2O2Hb3njb90raV8sTqAs8tCauxzOXIe6Uk8C3swFhDubWVL2cCm\n4vvHLpJQ7P0iGwHk3yIcgexnXoLPqBeaSD8wrkV18bR9ruBrxV39yx7MpKzhoOkv\nksefqrqLdcvbUDzlj8LavbVWLqWovy31ia2dsBXvj/ExTefiAWPIq3x7eTkRJax9\nBdayxZ+uf+/p2481aEpmfEDvtjmbc7uFpFVnN9YcIQKBgQDwEIi+iNuDJHemGhYH\nYQh4qmWR0273I289V7rMOReRhMw8W/Ron6hDvZYseGras/5Tuklqg/thcJT97nAi\nv7Ohm0Evvxc1KPxg/Lms/ut/AYi/QeqJf/7WtWtd4XV4bSafiReLFCSgKcvdwtkv\nAb7GFVcHcIfJ02m2TRsnxgo58QKBgQC39JZp9clRuYq0cSpI4tK82vojvwcnWw8o\n6KY5CCgcHfhbdjWh08ZrPq/c4Gv5y0r1NvjuD3jKrFB6KnEfGMSD+tw1UL3Nf4vz\ncS78rRZk0ZHSOf8G96bJYqwP0y5COjMMzpa2CZilpRcdZaTfPX+I+x44dXBklK6J\nEh1lBxbmFQKBgDUNQlrw/am+nl5rt2CMFgYsieOvGP+uqf+hapuFJms3MLdKDvos\nBlBqDkznk52fV14DdgP/BMekzJhNYCSdvsHBAKffj+5kj1mToCjV8Q8RNLonhAA8\n9AFY+FA36fDiFj39WuGWYv2uHup0C/Dybslxn9j6ClgUy3DJG24vusTRAoGBAJV5\nvINLQhQTRT8MOYTSMtVcxicnwWNcXbwrF25+T0FRpQ6Exl3B3JgmbvZ2saZfZ4BL\n9AhVMBzX2ej69cKD+KMZw7fa7O+/tXPSQ5D0AJ9ZnzkJAU6jC7bWY+PUAOG1sue0\nMsimkY//zwGHJ2py6V/gVZUg8Hv6SLx+qL3//b5lAoGBAK/riNFSxLbtxAu1Fm3V\nN0Pa+fg4ZEkEHgnNCOzAGSAThDB1yOmmhSq6mzVRFBsH3T/wJs45eXTJ0Z9fGSX4\nHjMqw6yMoUjghI2AjHivhzJRAfhMI9jRYFuLrsGy/A3/lfNPXFgUSUbeFdoOdKll\nWJUKq0caxw0Z1IdtVkda5ogH\n-----END PRIVATE KEY-----\n",
+  "client_email": "diagloflow-integrations@cn-bot-thft.iam.gserviceaccount.com",
+  "client_id": "110503619246256370637",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diagloflow-integrations%40cn-bot-thft.iam.gserviceaccount.com"
+}
